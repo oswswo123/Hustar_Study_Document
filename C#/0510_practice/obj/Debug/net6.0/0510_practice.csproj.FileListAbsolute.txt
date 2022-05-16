@@ -1,0 +1,15 @@
+/home/piai/Hustar_document/C#/0510_practice/bin/Debug/net6.0/0510_practice
+/home/piai/Hustar_document/C#/0510_practice/bin/Debug/net6.0/0510_practice.deps.json
+/home/piai/Hustar_document/C#/0510_practice/bin/Debug/net6.0/0510_practice.runtimeconfig.json
+/home/piai/Hustar_document/C#/0510_practice/bin/Debug/net6.0/0510_practice.dll
+/home/piai/Hustar_document/C#/0510_practice/bin/Debug/net6.0/0510_practice.pdb
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.csproj.AssemblyReference.cache
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.AssemblyInfoInputs.cache
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.AssemblyInfo.cs
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.csproj.CoreCompileInputs.cache
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.dll
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/refint/0510_practice.dll
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.pdb
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/0510_practice.genruntimeconfig.cache
+/home/piai/Hustar_document/C#/0510_practice/obj/Debug/net6.0/ref/0510_practice.dll

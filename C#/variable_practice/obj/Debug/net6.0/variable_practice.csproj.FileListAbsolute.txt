@@ -1,0 +1,15 @@
+/home/piai/Hustar_document/C#/variable_practice/bin/Debug/net6.0/variable_practice
+/home/piai/Hustar_document/C#/variable_practice/bin/Debug/net6.0/variable_practice.deps.json
+/home/piai/Hustar_document/C#/variable_practice/bin/Debug/net6.0/variable_practice.runtimeconfig.json
+/home/piai/Hustar_document/C#/variable_practice/bin/Debug/net6.0/variable_practice.dll
+/home/piai/Hustar_document/C#/variable_practice/bin/Debug/net6.0/variable_practice.pdb
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.csproj.AssemblyReference.cache
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.AssemblyInfoInputs.cache
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.AssemblyInfo.cs
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.csproj.CoreCompileInputs.cache
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.dll
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/refint/variable_practice.dll
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.pdb
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/variable_practice.genruntimeconfig.cache
+/home/piai/Hustar_document/C#/variable_practice/obj/Debug/net6.0/ref/variable_practice.dll

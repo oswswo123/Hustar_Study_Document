@@ -1,0 +1,15 @@
+/home/piai/Hustar_document/C#/HW#02/bin/Debug/net6.0/HW#02
+/home/piai/Hustar_document/C#/HW#02/bin/Debug/net6.0/HW#02.deps.json
+/home/piai/Hustar_document/C#/HW#02/bin/Debug/net6.0/HW#02.runtimeconfig.json
+/home/piai/Hustar_document/C#/HW#02/bin/Debug/net6.0/HW#02.dll
+/home/piai/Hustar_document/C#/HW#02/bin/Debug/net6.0/HW#02.pdb
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.csproj.AssemblyReference.cache
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.AssemblyInfoInputs.cache
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.AssemblyInfo.cs
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.csproj.CoreCompileInputs.cache
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.dll
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/refint/HW#02.dll
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.pdb
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/HW#02.genruntimeconfig.cache
+/home/piai/Hustar_document/C#/HW#02/obj/Debug/net6.0/ref/HW#02.dll

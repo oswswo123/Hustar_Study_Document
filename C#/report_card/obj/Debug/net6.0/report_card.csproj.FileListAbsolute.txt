@@ -1,0 +1,15 @@
+/home/piai/Hustar_document/C#/report_card/bin/Debug/net6.0/report_card
+/home/piai/Hustar_document/C#/report_card/bin/Debug/net6.0/report_card.deps.json
+/home/piai/Hustar_document/C#/report_card/bin/Debug/net6.0/report_card.runtimeconfig.json
+/home/piai/Hustar_document/C#/report_card/bin/Debug/net6.0/report_card.dll
+/home/piai/Hustar_document/C#/report_card/bin/Debug/net6.0/report_card.pdb
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.csproj.AssemblyReference.cache
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.GeneratedMSBuildEditorConfig.editorconfig
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.AssemblyInfoInputs.cache
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.AssemblyInfo.cs
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.csproj.CoreCompileInputs.cache
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.dll
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/refint/report_card.dll
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.pdb
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/report_card.genruntimeconfig.cache
+/home/piai/Hustar_document/C#/report_card/obj/Debug/net6.0/ref/report_card.dll
