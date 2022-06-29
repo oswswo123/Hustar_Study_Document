@@ -1,3 +1,4 @@
+# 03. 리스트의 합
 num_of_list = int(input())
 for _ in range(num_of_list):
     temp_list = input().split()

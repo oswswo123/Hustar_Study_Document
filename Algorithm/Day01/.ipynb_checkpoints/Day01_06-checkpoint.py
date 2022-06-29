@@ -1,3 +1,5 @@
+# 06. 큐 구현하기
+
 import collections
 
 num_of_testcase = int(input())
