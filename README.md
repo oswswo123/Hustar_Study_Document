@@ -1,5 +1,5 @@
 # Hustar_Study_Document
-### 06.29()
+### 06.29(수)
 - Algorithm 수업자료 upload
 - Graph algorithm
 
