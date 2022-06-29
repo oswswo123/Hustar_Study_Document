@@ -23,27 +23,16 @@ def bisect_find(sorted_first_list, search_value):
     left_idx = bisect.bisect_left(sorted_first_list, search_value)
     right_idx = bisect.bisect_right(sorted_first_list, search_value)
     
-    # max_idx = len(sorted_first_list)-1
-    # while idx < max_idx:
-    #     if sorted_first_list[idx+1] == search_value:
-    #         idx += 1
-    #         repeat += 1
-    #     else:
-    #         break
     return right_idx - left_idx
 
 num_of_testcase = int(input())
 for testcase in range(num_of_testcase):
-    first_list = input()
-    second_list = input()
-    # first_list = list(map(int, input().split()))
-    # second_list = list(map(int, input().split()))
+    first_list = list(map(int, input().split()))
+    second_list = list(map(int, input().split()))
     
-    print(str(0))
-    # sorted_first_list = quick_sort(first_list)
-    # sorted_first_list = sorted(first_list)
-#     output = 0
-#     for search_value in second_list:
-#         output += bisect_find(sorted_first_list, search_value)
+    sorted_first_list = quick_sort(first_list)
+    output = 0
+    for search_value in second_list:
+        output += bisect_find(sorted_first_list, search_value)
     
-#     print(output)
+    print(output)
