@@ -1,4 +1,4 @@
-# PJ 01. 두 바퀴 레이스
+# Day 01 - PJ 02. 두 바퀴 레이스
 import collections
 
 num_of_testcase = int(input())

@@ -1,4 +1,4 @@
-# PJ 01. 괄호 검사
+# Day 01 - PJ 01. 괄호 검사
 num_of_testcase = int(input())
 for _ in range(num_of_testcase):
     check_bracket_str = input()
