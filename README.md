@@ -1,4 +1,8 @@
 # Hustar_Study_Document
+### 07.01(금)
+- Algorithm 수업자료 upload
+- Greedy, Dynamic Programming
+
 ### 06.29(수)
 - Algorithm 수업자료 upload
 - Graph algorithm
