@@ -1,4 +1,12 @@
-# Hustar_Study_Document
+# Hustar Study Document
+### 07.06(수)
+- Bigdata 수업자료 upload
+- draw heatmap, RidgeRegression, Adjust R2
+
+### 07.05(화)
+- Bigdata 수업자료 upload
+- pandas and numpy 사용법 및 LinearRegression
+
 ### 07.03(일)
 - Algorithm 수업자료 upload
 - PDF file upload
