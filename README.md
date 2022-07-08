@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.08(금)
+- Bigdata 수업자료 upload
+- LDA, QDA, Visualization
+
 ### 07.06(수)
 - Bigdata 수업자료 upload
 - draw heatmap, RidgeRegression, Adjust R2
