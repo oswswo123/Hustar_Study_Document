@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.11(월)
+- Bigdata 수업자료 upload
+- Logistic Regression and Confusion matrix
+
 ### 07.08(금)
 - Bigdata 수업자료 upload
 - LDA, QDA, Visualization
