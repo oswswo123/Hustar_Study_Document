@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.12(화)
+- Bigdata 수업자료 upload
+- SVM(Support Vector Machine)
+
 ### 07.11(월)
 - Bigdata 수업자료 upload
 - Logistic Regression and Confusion matrix
