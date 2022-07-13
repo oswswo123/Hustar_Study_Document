@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.13(수)
+- Bigdata 수업자료 upload
+- Decision Tree and K-fold cross-validation and GreedSearchCV(Hyperparameter Selection)
+
 ### 07.12(화)
 - Bigdata 수업자료 upload
 - SVM(Support Vector Machine)
