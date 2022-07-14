@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.14(목)
+- Bigdata 수업자료 upload
+- Boosting and GreedSearchCV / RandomSearchCV
+
 ### 07.13(수)
 - Bigdata 수업자료 upload
 - Decision Tree and K-fold cross-validation and GreedSearchCV(Hyperparameter Selection)
