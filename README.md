@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.15(금)
+- Bigdata 수업자료 upload
+- K-means, GMM, PCA
+
 ### 07.14(목)
 - Bigdata 수업자료 upload
 - Boosting and GreedSearchCV / RandomSearchCV
