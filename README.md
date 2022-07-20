@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.20(수)
+- AI 기초 수업자료 upload
+- Optimization(Gradient Descent, linear and quadratic form solve)
+
 ### 07.18(월)
 - AI 기초 수업자료 upload
 - Pandas, Linear Algebra
