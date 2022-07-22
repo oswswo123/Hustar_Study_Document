@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.22(금)
+- AI 기초 수업자료 upload
+- Regression and Classification
+
 ### 07.20(수)
 - AI 기초 수업자료 upload
 - Optimization(Gradient Descent, linear and quadratic form solve)
