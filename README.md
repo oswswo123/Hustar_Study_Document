@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.25(월)
+- ML/DL 수업자료 upload
+- Linear Regression and Gradient Descent
+
 ### 07.22(금)
 - AI 기초 수업자료 upload
 - Regression and Classification
