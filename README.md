@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.26(화)
+- ML/DL 수업자료 upload
+- Backpropagation, Logistic Regression, Softmax
+
 ### 07.25(월)
 - ML/DL 수업자료 upload
 - Linear Regression and Gradient Descent
