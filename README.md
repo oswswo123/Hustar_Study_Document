@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.27(수)
+- ML/DL 수업자료 upload
+- Multilayer Perceptron, Convolution Neural Network
+
 ### 07.26(화)
 - ML/DL 수업자료 upload
 - Backpropagation, Logistic Regression, Softmax
