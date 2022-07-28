@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.28(목)
+- ML/DL 수업자료 upload
+- CNN continue, RNN
+
 ### 07.27(수)
 - ML/DL 수업자료 upload
 - Multilayer Perceptron, Convolution Neural Network
