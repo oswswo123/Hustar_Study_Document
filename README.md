@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 07.29(금)
+- ML/DL 수업자료 upload
+- VAE, 시험
+
 ### 07.28(목)
 - ML/DL 수업자료 upload
 - CNN continue, RNN
