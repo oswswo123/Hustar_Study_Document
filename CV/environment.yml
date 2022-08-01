@@ -1,0 +1,17 @@
+name: cv-course
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pip
+  - jupyterlab
+  - notebook
+  - ipywidgets
+  - tqdm
+  - numpy
+  - matplotlib
+  - scikit-image
+
+  - pip:
+      - opencv-python
