@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 08.02(화)
+- CV 수업자료 upload
+- filter, simple CNN
+
 ### 07.29(금)
 - ML/DL 수업자료 upload
 - VAE, 시험
