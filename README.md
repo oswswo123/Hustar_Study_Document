@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 08.03(수)
+- CV 수업자료 upload
+- U-net, semantic segmentation
+
 ### 08.02(화)
 - CV 수업자료 upload
 - filter, simple CNN
