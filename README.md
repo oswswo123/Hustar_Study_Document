@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 08.04(목)
+- CV 수업자료 upload
+- Image warping, alignment, stiching
+
 ### 08.03(수)
 - CV 수업자료 upload
 - U-net, semantic segmentation
