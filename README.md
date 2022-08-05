@@ -1,4 +1,8 @@
 # Hustar Study Document
+### 08.05(금)
+- CV 수업자료 upload
+- GAN, Style Transfer
+
 ### 08.04(목)
 - CV 수업자료 upload
 - Image warping, alignment, stiching
