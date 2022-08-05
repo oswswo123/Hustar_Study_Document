@@ -6,5 +6,10 @@ data
 */.ipynb_checkpoints/*
 resource
 */resource/*
+*.gif
 *.png
 *.pkl
+model
+*/model/*
+output
+*/output/*
