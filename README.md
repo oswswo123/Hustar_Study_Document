@@ -1,4 +1,7 @@
-# Hustar Study Document
+# Hustar Study Documenta
+### 08.10(수)
+- NLP 수업자료 upload
+
 ### 08.05(금)
 - CV 수업자료 upload
 - GAN, Style Transfer
