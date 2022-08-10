@@ -12,3 +12,6 @@ model
 */model/*
 output
 */output/*
+*.pt
+*.model
+*.vocab
