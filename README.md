@@ -1,4 +1,8 @@
 # Hustar Study Documenta
+### 08.12(금)
+- NLP 수업자료 upload
+- 과제 작성 완료
+
 ### 08.10(수)
 - NLP 수업자료 upload
 
